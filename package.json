@@ -13,7 +13,7 @@
     "@react-native-mapbox-gl/maps": "^8.1.0-rc.1",
     "@svgr/core": "^5.4.0",
     "country-code-lookup": "0.0.17",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "path-dirname": "^1.0.2",
     "react": "16.11.0",
     "react-native": "0.62.2",
